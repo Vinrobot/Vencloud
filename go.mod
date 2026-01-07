@@ -1,8 +1,8 @@
 module github.com/vencord/backend
 
-go 1.21
+go 1.25
 
-toolchain go1.23.1
+toolchain go1.25.5
 
 require (
 	github.com/ansrivas/fiberprometheus/v2 v2.7.0
