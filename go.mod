@@ -9,7 +9,7 @@ require (
 	github.com/gofiber/fiber/v2 v2.52.10
 	github.com/imroc/req/v3 v3.57.0
 	github.com/prometheus/client_golang v1.23.2
-	github.com/redis/go-redis/v9 v9.17.2
+	github.com/redis/go-redis/v9 v9.18.0
 )
 
 require (
@@ -38,6 +38,7 @@ require (
 	github.com/valyala/fasthttp v1.69.0 // indirect
 	go.opentelemetry.io/otel v1.39.0 // indirect
 	go.opentelemetry.io/otel/trace v1.39.0 // indirect
+	go.uber.org/atomic v1.11.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.3 // indirect
 	golang.org/x/crypto v0.46.0 // indirect
 	golang.org/x/net v0.48.0 // indirect
