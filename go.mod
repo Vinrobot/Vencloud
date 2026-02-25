@@ -6,7 +6,7 @@ toolchain go1.25.5
 
 require (
 	github.com/ansrivas/fiberprometheus/v2 v2.15.0
-	github.com/gofiber/fiber/v2 v2.52.10
+	github.com/gofiber/fiber/v2 v2.52.12
 	github.com/imroc/req/v3 v3.57.0
 	github.com/prometheus/client_golang v1.23.2
 	github.com/redis/go-redis/v9 v9.17.2
